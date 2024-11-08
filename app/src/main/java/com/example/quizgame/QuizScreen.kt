@@ -42,7 +42,6 @@ fun QuizScreen(navController: NavController) {
     Column(
         modifier = Modifier
             .fillMaxSize()
-            .padding(16.dp)
             .background(MaterialTheme.colorScheme.primaryContainer)
             .padding(16.dp),
         verticalArrangement = Arrangement.Center,
